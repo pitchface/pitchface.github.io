@@ -43,6 +43,13 @@
 
 <body id="page-top" class="index">
 
+    <script type="text/javascript">
+        mixpanel.track('Page Viewed', {
+        'Page Name' : document.title,
+        'URL' : window.location.pathname
+        });
+    </script>
+
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
