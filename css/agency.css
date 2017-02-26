@@ -266,8 +266,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    /*background-image: url(../img/header-bg.jpg);*/
-    background-image: url(https://googledrive.com/host/0ByM2hcrd98x2fm1CYjVLYnc1dnhqSVFHQmpsVC0xU29FRUdpbnY5QzZtM2c1YXlCb2tlSkk/header-bg.jpg);
+    background-image: url(../img/header-bg.jpg);
+    /*background-image: url(https://googledrive.com/host/0ByM2hcrd98x2fm1CYjVLYnc1dnhqSVFHQmpsVC0xU29FRUdpbnY5QzZtM2c1YXlCb2tlSkk/header-bg.jpg); */
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
